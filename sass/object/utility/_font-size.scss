@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.u-fz {
+  @each $modifier, $size in map-get($u-font, sizes) {
+    &--#{$modifier} {
+      font-size: ($size/map-get($u-font, root-font-size))+rem;
+    }
+  }
+}
