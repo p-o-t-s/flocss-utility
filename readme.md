@@ -11,4 +11,4 @@ have put together a handy utility of FLOCSS
 
 ## Author
 
-[s104](https://github.com/p-o-t-s)
+[p-o-t-s](https://github.com/p-o-t-s)
